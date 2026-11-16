@@ -4,6 +4,10 @@
 **Student Number:** 9111541
 **Section:** 1
 
+## View the Complete Analysis
+
+[Open the notebook as a webpage](https://shainaulakh.github.io/fraud-detection-and-insurance-cost-prediction/Sukhchain%20Singh_9111541_Section1_Lab3.html)
+
 ## Overview
 
 This lab covers two supervised learning tasks:
