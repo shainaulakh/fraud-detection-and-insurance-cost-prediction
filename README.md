@@ -1,7 +1,8 @@
 # Lab 3: Credit Card Fraud Detection and Insurance Cost Prediction
 
 **Name:** Sukhchain Singh  
-**Student Number:** 9111541  
+**Student Number:** 9111541
+**Section:** 1
 
 ## Overview
 
@@ -97,6 +98,14 @@ conda create -n lab3 python=3.11 pandas numpy matplotlib seaborn scikit-learn ip
 conda activate lab3
 ~~~
 
+### Install the recorded dependencies
+
+With a Python 3.11 environment activated, install the recorded package versions:
+
+~~~bash
+python -m pip install -r requirements.txt
+~~~
+
 ## Limitations
 
 - Results are based on one train-test split.
@@ -109,8 +118,8 @@ conda activate lab3
 
 The final notebook and HTML export must follow this naming format:
 
-- `Sukhchain Singh_9111541_Lab3.ipynb`
-- `Sukhchain Singh_9111541_Lab3.html`
+- `Sukhchain Singh_9111541_Section1_Lab3.ipynb`
+- `Sukhchain Singh_9111541_Section1_Lab3.html`
 
 The notebook must include all executed cell outputs. Both files must be submitted on eConestoga.
 
