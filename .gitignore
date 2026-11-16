@@ -1,0 +1,7 @@
+# Download datasets separately using the README links
+data/
+
+# Temporary notebook and Python files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
